@@ -39,6 +39,6 @@ console.log(NFTs.length);
 }
 
 // call your functions below this line
-mintNFT("Rochelle", "Black", "Hoodie", "Diamond");
+mintNFT("Rochelle", "Black", "Hoodie", "Beaded Bracelets");
 listNFTs();
 getTotalSupply();
